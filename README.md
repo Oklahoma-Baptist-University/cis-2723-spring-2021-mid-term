@@ -1,2 +1,2 @@
-# CIS 2723 Spring 2021 Basic Template
-Basic template for Java projects
+# CIS 2723 Spring 2021 Quiz #5
+See Canvas for quiz instructions.
